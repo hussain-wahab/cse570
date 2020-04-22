@@ -1,0 +1,6 @@
+The canonical LR(0) collection of sets for the input grammar is:
+I0:
+010.10110100111
+
+
+
